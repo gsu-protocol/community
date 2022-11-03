@@ -1,5 +1,5 @@
 ---
-title: End GSUc Funding For Sourcecred - October 15, 2022
+title: Decimal issue must be sortout quickly. 
 summary: Signal your support or opposition for GovAlpha ending GSUc funding for Sourcecred.
 discussion_link: https://forum.makerdao.com/t/poll-notice-signal-support-for-ending-dai-funding-for-sourcecred/18204
 parameters:
@@ -15,7 +15,7 @@ options:
 start_date: 2022-10-15T10:00:00
 end_date: 2022-10-15T17:00:00
 ---
-# Poll: End DAI Funding For Sourcecred - October 15, 2022
+# Poll: Decimal issue must be sortout quickly.
 
 The Governance Facilitators have placed a Governance Poll into the voting system. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for one day beginning on Saturday, October 15 at 10:00 UTC.
 

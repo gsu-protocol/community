@@ -12,7 +12,7 @@ options:
 start_date: 2022-10-20T10:00:00
 end_date: 2022-11-10T16:00:00
 ---
-# Poll: More Collateral subtypes must be added for the users - October 30, 2022
+# Poll: Vault Creation is difficult to understand, make its UX easy - October 20, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the GSU Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for five days beginning on Saturday, October 30 at 10:00 UTC.
 
