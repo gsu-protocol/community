@@ -1,5 +1,5 @@
 ---
-title: Vault Creation is difficult to understand, make its UX easy - October 20, 2022
+title: Raise the Emergency Shutdown Module (ESM) Threshold - October 20, 2022
 summary: Support this and make it reach 75,000 GSUp to 100,000 GSUp.
 discussion_link: https://forum.makerdao.com/t/signal-request-raise-threshold-for-emergency-shutdown-module/12208
 vote_type: Plurality Voting
@@ -12,7 +12,7 @@ options:
 start_date: 2022-10-20T10:00:00
 end_date: 2022-11-10T16:00:00
 ---
-# Poll: Vault Creation is difficult to understand, make its UX easy - October 20, 2022
+# Poll: Raise the Emergency Shutdown Module (ESM) Threshold - October 20, 2022
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the GSU Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for five days beginning on Saturday, October 30 at 10:00 UTC.
 
