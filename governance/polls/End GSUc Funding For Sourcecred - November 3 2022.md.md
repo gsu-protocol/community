@@ -9,7 +9,7 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2022-11-3T10:00:00
+start_date: 2022-11-1T10:00:00
 end_date: 2022-11-20T16:00:00
 ---
 # Poll: End GSUc Funding For Sourcecred - November 3 2022.md
