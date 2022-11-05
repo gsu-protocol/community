@@ -1,5 +1,5 @@
 ---
-title: Rineky must be added as a test network
+title: End GSUc Funding For Sourcecred - November 3 2022.md
 summary: Signal you support or opposition for raising the Emergency Shutdown Module (ESM) threshold from 75,000 MKR to 100,000 MKR.
 discussion_link: https://forum.makerdao.com/t/signal-request-raise-threshold-for-emergency-shutdown-module/12208
 vote_type: Plurality Voting
@@ -12,7 +12,7 @@ options:
 start_date: 2022-11-3T10:00:00
 end_date: 2022-11-20T16:00:00
 ---
-# Poll: Rineky must be added as a test network
+# Poll: End GSUc Funding For Sourcecred - November 3 2022.md
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Community. This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for five days beginning on Saturday, October 30 at 10:00 UTC.
 
