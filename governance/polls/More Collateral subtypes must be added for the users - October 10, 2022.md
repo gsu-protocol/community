@@ -1,5 +1,5 @@
 ---
-title: More Collateral subtypes must be added for the users - October 30, 2022
+title: More Collateral subtypes must be added for the users - October 10, 2022
 summary: Signal you support or opposition for raising the Emergency Shutdown Module (ESM) threshold from 75,000 GSUp to 100,000 GSUp.
 discussion_link: https://forum.makerdao.com/t/signal-request-raise-threshold-for-emergency-shutdown-module/12208
 vote_type: Plurality Voting
@@ -9,8 +9,8 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2022-10-30T10:00:00
-end_date: 2022-11-10T16:00:00
+start_date: 2022-11-2T10:00:00
+end_date: 2022-11-25T16:00:00
 ---
 # Poll: More Collateral subtypes must be added for the users - October 30, 2022
 
