@@ -10,7 +10,7 @@ options:
    1: Yes
    2: No
 start_date: 2022-10-20T10:00:00
-end_date: 2022-11-10T16:00:00
+end_date: 2022-11-25T16:00:00
 ---
 # Poll: Raise the Emergency Shutdown Module (ESM) Threshold - October 20, 2022
 
