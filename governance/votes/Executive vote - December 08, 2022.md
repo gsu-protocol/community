@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] LERP_FAB Addtion in DssChainLog - December 17, 2022
 summary: LERP_FAB Addtion in DssChainLog.
 date: 2022-12-08T00:00:00.000Z
-address: "0x4137036f02478c4a61d3e9cfe768fd17fa1d7f38"
+address: "0x841B1300add7c8f790AAC7Edb386828033B7C29A"
 ---
 
 # [Executive Proposal] LERP_FAB Addtion in DssChainLog - December 17, 2022
