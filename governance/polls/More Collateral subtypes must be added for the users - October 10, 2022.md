@@ -9,8 +9,8 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2022-11-2T10:00:00
-end_date: 2022-11-25T16:00:00
+start_date: 2022-1-1T10:00:00
+end_date: 2022-3-25T16:00:00
 ---
 # Poll: More Collateral subtypes must be added for the users - October 30, 2022
 
