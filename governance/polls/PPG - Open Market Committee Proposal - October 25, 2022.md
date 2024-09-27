@@ -1,5 +1,5 @@
 ---
-title: PPG - Open Market Committee Proposal - October 15, 2022
+title: PPG - Open Market Committee Proposal - October 25, 2022
 summary: Signal your support or opposition to included parameter changes based on the recommendation of the Maker Open Market Committee.
 discussion_link: https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-29-september-2022/18143
 parameters:
@@ -12,8 +12,8 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2022-10-15T10:00:00
-end_date: 2022-10-17T21:00:00
+start_date: 2022-1-3T10:00:00
+end_date: 2022-2-17T21:00:00
 ---
 # PPG - Open Market Committee Proposal - October 15, 2022
 
